@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-test test test, dans la nouvelle branche nommée update
+On ajoute un petit test pour causer un conflit et le gérer
